@@ -4,9 +4,6 @@ body {
 #container {
   height: 1100px;
   width: 800px;
-  position: absolute;
-  left: 20%;
-  top: 10%;
   margin-bottom: 10px;
   border-width: 1px;
   border-color: black;
